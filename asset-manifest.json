@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/i-miss-u-mom/static/css/main.073c9b0a.css",
+    "main.js": "/i-miss-u-mom/static/js/main.b263e9fa.js",
+    "static/js/787.44518ee3.chunk.js": "/i-miss-u-mom/static/js/787.44518ee3.chunk.js",
+    "static/media/logo.svg": "/i-miss-u-mom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/i-miss-u-mom/index.html",
+    "main.073c9b0a.css.map": "/i-miss-u-mom/static/css/main.073c9b0a.css.map",
+    "main.b263e9fa.js.map": "/i-miss-u-mom/static/js/main.b263e9fa.js.map",
+    "787.44518ee3.chunk.js.map": "/i-miss-u-mom/static/js/787.44518ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b263e9fa.js"
+  ]
+}
